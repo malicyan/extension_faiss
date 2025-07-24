@@ -1,7 +1,0 @@
-{
-  "title": "FAISS Vector Storage",
-  "description": "Vector store using FAISS for SillyTavern",
-  "entrypoint": "script.js",
-  "version": "0.1.0",
-  "tags": ["vector", "storage", "faiss"]
-}
