@@ -1,0 +1,7 @@
+{
+  "name": "FAISS Vector Store",
+  "id": "extension_faiss",
+  "type": "extension",
+  "entry": "script.js",
+  "description": "Extension vectorielle utilisant FAISS"
+}
