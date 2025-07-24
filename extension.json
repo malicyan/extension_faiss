@@ -1,0 +1,7 @@
+{
+  "id": "faiss-extension",
+  "name": "Faiss Memory Search",
+  "description": "Ajoute un bouton pour rechercher des souvenirs dans une base Faiss locale.",
+  "author": "Maxime",
+  "version": "1.0.0"
+}

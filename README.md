@@ -1,1 +1,1 @@
-# extension_faiss
+Test pour faire un extension faiss dans sillytavern afin d'avoir des fonctionnalités pour améliorer la vectorization dans sillytavern
